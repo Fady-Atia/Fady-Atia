@@ -8,21 +8,21 @@
 
 ---
 
-### 🔭 I’m currently working on  
-🎯 Building Generative AI tools (LLMs, RAG, Diffusion models)
+                                                      ### 🔭 I’m currently working on  
+                                           🎯 Building Generative AI tools (LLMs, RAG, Diffusion models)
 
-### 🌱 I’m currently learning  
-🌿 RL, LLM, Agent, Docker, AWS
+                                                      ### 🌱 I’m currently learning  
+                                                 🌿 RL, LLM, Agent, Docker, AWS
+                                                 
+                                                      ### 💬 Ask me about  
+                                         💭 ML, DL, NLP... or anything [here](mailto:fadyatia375@gmail.com)
 
-### 💬 Ask me about  
-💭 ML, DL, NLP... or anything [here](mailto:fadyatia375@gmail.com)
-
-### ⚡ Fun fact  
-⚡ This AI can turn your doodles into real art! 🎨🤖
+                                                      ### ⚡ Fun fact  
+                                          ⚡ This AI can turn your doodles into real art! 🎨🤖
 
 ---
 
-## ⚒️ Languages - Frameworks - Tools
+                                              ## ⚒️ Languages - Frameworks - Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c++,tensorflow,pytorch,sklearn,opencv,anaconda,jupyter,git,github,vscode" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Project Highlights
+                                             ## 🚀 Project Highlights
 
 - 🤖 **Plant Disease Detection + Arabic Chatbot**  
   → RAG-based assistant for farmers using FAISS, SentenceTransformers, Cohere, and FastAPI  
