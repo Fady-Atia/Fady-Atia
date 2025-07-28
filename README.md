@@ -9,13 +9,12 @@
 ---
 
 ### 🔭 I’m currently working on:
-- AI-powered plant disease detection with an Arabic chatbot
 - Building Generative AI tools (LLMs, RAG, Diffusion models)
 
 ### 🌱 I’m currently learning:
 - LangChain, Retrieval-Augmented Generation (RAG)
-- Docker, Supabase, AWS, MLOps
-- Reinforcement Learning (RL) and Advanced NLP
+- Docker, MLOps
+- Advanced NLP
 
 ### 💬 Ask me about:
 - Machine Learning, Deep Learning, NLP, and Computer Vision
@@ -33,7 +32,7 @@
 ## ⚒️ Languages - Frameworks - Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c++,java,sql,anaconda,jupyter,tensorflow,pytorch,sklearn,opencv,streamlit,html,css,git,github,docker,vscode,figma,tableau,excel,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,c++,sql,jupyter,tensorflow,pytorch,sklearn,opencv,streamlit,git,github,vscode,tableau,excel,anaconda" />
 </p>
 
 ---
@@ -47,14 +46,37 @@
 
 ---
 
-## 🚀 Projects Highlights
+## 🚀 Project Highlights
 
-- 🤖 **Plant Disease Detection + Arabic Chatbot** (RAG, FAISS, SentenceTransformers, Cohere, FastAPI)  
-- 📚 **Book Recommender System** (KNN, collaborative filtering, Streamlit)  
-- 🫁 **Pneumonia Detection** (CNN with Keras, image classification)  
-- 📊 **Customer Churn Prediction** (94% accuracy using supervised ML)  
-- 🧠 **Text-to-Image Generation** (Diffusion Models, Streamlit)  
-- 📈 **Freelance Tableau Dashboards** (KPI, YoY growth, product analysis)
+- 🤖 **Plant Disease Detection + Arabic Chatbot**  
+  → RAG-based assistant for farmers using FAISS, SentenceTransformers, Cohere, and FastAPI  
+- 📚 **Book Recommender System**  
+  → KNN + Collaborative Filtering with Streamlit UI  
+- 🫁 **Pneumonia Detection**  
+  → CNN with TensorFlow/Keras for X-ray classification  
+- 📊 **Customer Churn Prediction**  
+  → Achieved 94% accuracy using supervised machine learning  
+- 🧠 **Text-to-Image Generation App**  
+  → Used Diffusion Models + Streamlit for UI  
+- 📈 **Tableau Dashboards**  
+  → KPI analysis, sales trends, YoY growth for real-world clients
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:fadyatia375@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fady-atia-09144520b/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://outlook.live.com/" target="_blank"><img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/your-id" target="_blank"><img src="https://img.shields.io/badge/STACKOVERFLOW-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://t.me/your_username" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <br><br>
+  <a href="https://paypal.me/yourusername" target="_blank"><img src="https://img.shields.io/badge/PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+  <a href="https://medium.com/@yourusername" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://wa.me/201270733754" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
