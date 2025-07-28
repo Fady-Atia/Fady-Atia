@@ -50,7 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Fady-Atia&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fady-Atia&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fady-Atia&layout=compact&theme=radical" height="160" />
 </p>
 
