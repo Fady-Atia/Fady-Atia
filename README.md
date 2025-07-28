@@ -64,8 +64,10 @@
   <a href="https://outlook.live.com/" target="_blank"><img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <a href="https://t.me/your_username" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/201270733754" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://fadyatia.my.canva.site/blue-modern-pitch-deck-presentation" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+ <a href="https://fadyatia.my.canva.site/blue-modern-pitch-deck-presentation" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-8ED6FB?style=for-the-badge&logo=canva&logoColor=white" />
+</a>
+
 
 ---
 
